@@ -1,0 +1,2494 @@
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.9.29)  23 NOV 2014 19:42
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Manual.tex
+(./Manual.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2013/05/30 v3.7b configurable book, report, article docu
+ment class
+\onelineskip=\skip41
+\lxvchars=\skip42
+\xlvchars=\skip43
+\@memcnta=\count80
+\c@@memmarkcntra=\count81
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+Class memoir Info: An `ifetex' package is being emulated on input line 265.
+
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+\stockheight=\skip44
+\stockwidth=\skip45
+\trimtop=\skip46
+\trimedge=\skip47
+
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count82
+)
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem12.clo
+File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
+)
+\binding=\skip48
+\spinemargin=\skip49
+\foremargin=\skip50
+\uppermargin=\skip51
+\lowermargin=\skip52
+\headdrop=\skip53
+\normalrulethickness=\skip54
+\mem@maxheadheight=\skip55
+\mem@maxfootheight=\skip56
+\headwidth=\skip57
+\c@storedpagenumber=\count83
+\memPD=\dimen102
+\m@mabparskip=\skip58
+\thanksmarkwidth=\skip59
+\thanksmarksep=\skip60
+\droptitle=\skip61
+\c@book=\count84
+\c@part=\count85
+\c@chapter=\count86
+\c@section=\count87
+\c@subsection=\count88
+\c@subsubsection=\count89
+\c@paragraph=\count90
+\c@subparagraph=\count91
+\beforechapskip=\skip62
+\midchapskip=\skip63
+\afterchapskip=\skip64
+\chapindent=\skip65
+\bottomsectionskip=\skip66
+\secindent=\skip67
+\beforesecskip=\skip68
+\aftersecskip=\skip69
+\subsecindent=\skip70
+\beforesubsecskip=\skip71
+\aftersubsecskip=\skip72
+\subsubsecindent=\skip73
+\beforesubsubsecskip=\skip74
+\aftersubsubsecskip=\skip75
+\paraindent=\skip76
+\beforeparaskip=\skip77
+\afterparaskip=\skip78
+\subparaindent=\skip79
+\beforesubparaskip=\skip80
+\aftersubparaskip=\skip81
+\pfbreakskip=\skip82
+\c@@ppsavesec=\count92
+\c@@ppsaveapp=\count93
+\ragrparindent=\dimen103
+\everylistparindent=\dimen104
+\parsepi=\skip83
+\topsepi=\skip84
+\itemsepi=\skip85
+\parsepii=\skip86
+\topsepii=\skip87
+\topsepiii=\skip88
+\itemsepii=\skip89
+\itemsepiii=\skip90
+\partopsepii=\skip91
+\partopsepiii=\skip92
+\m@msavetopsep=\skip93
+\m@msavepartopsep=\skip94
+\@enLab=\toks14
+\abstitleskip=\skip95
+\absleftindent=\skip96
+\abs@leftindent=\dimen105
+\absrightindent=\skip97
+\absparindent=\skip98
+\absparsep=\skip99
+\c@vslineno=\count94
+\c@poemline=\count95
+\c@modulo@vs=\count96
+\c@memfvsline=\count97
+\vleftskip=\skip100
+\vrightskip=\skip101
+\stanzaskip=\skip102
+\versewidth=\skip103
+\vgap=\skip104
+\vindent=\skip105
+\vleftmargin=\dimen106
+\c@verse=\count98
+\c@chrsinstr=\count99
+\beforepoemtitleskip=\skip106
+\afterpoemtitleskip=\skip107
+\c@poem=\count100
+\beforePoemTitleskip=\skip108
+\midPoemTitleskip=\skip109
+\afterPoemTitleskip=\skip110
+\col@sep=\dimen107
+\extrarowheight=\dimen108
+\NC@list=\toks15
+\extratabsurround=\skip111
+\backup@length=\skip112
+\TX@col@width=\dimen109
+\TX@old@table=\dimen110
+\TX@old@col=\dimen111
+\TX@target=\dimen112
+\TX@delta=\dimen113
+\TX@cols=\count101
+\TX@ftn=\toks16
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count102
+\@cmidlb=\count103
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count104
+\@lastruleclass=\count105
+\@thisrulewidth=\dimen126
+\ctableftskip=\skip113
+\ctabrightskip=\skip114
+\abovecolumnspenalty=\count106
+\@linestogo=\count107
+\@cellstogo=\count108
+\@cellsincolumn=\count109
+\crtok=\toks17
+\@mincolumnwidth=\dimen127
+\c@newflo@tctr=\count110
+\mem@margin@floatbox=\box26
+\@contcwidth=\skip115
+\@contindw=\skip116
+\abovecaptionskip=\skip117
+\belowcaptionskip=\skip118
+\subfloattopskip=\skip119
+\subfloatcapskip=\skip120
+\subfloatcaptopadj=\skip121
+\subfloatbottomskip=\skip122
+\subfloatlabelskip=\skip123
+\subfloatcapmargin=\dimen128
+\c@@contsubnum=\count111
+\m@mscap@capbox=\box27
+\m@mscap@fbox=\box28
+\sidecapsep=\dimen129
+\sidecapwidth=\dimen130
+\m@m@tempdima=\dimen131
+\m@mscapraise=\dimen132
+\sidecapraise=\dimen133
+\m@mscapmainwidth=\dimen134
+\m@mscaplkern=\dimen135
+\beforeepigraphskip=\skip124
+\afterepigraphskip=\skip125
+\epigraphwidth=\skip126
+\epigraphrule=\skip127
+LaTeX Info: Redefining \em on input line 7492.
+LaTeX Info: Redefining \emph on input line 7500.
+\tocentryskip=\skip128
+\tocbaseline=\skip129
+\cftparskip=\skip130
+\cftbeforebookskip=\skip131
+\cftbookindent=\dimen136
+\cftbooknumwidth=\dimen137
+\cftbeforepartskip=\skip132
+\cftpartindent=\skip133
+\cftpartnumwidth=\skip134
+\cftbeforechapterskip=\skip135
+\cftchapterindent=\skip136
+\cftchapternumwidth=\skip137
+\cftbeforesectionskip=\skip138
+\cftsectionindent=\skip139
+\cftsectionnumwidth=\skip140
+\cftbeforesubsectionskip=\skip141
+\cftsubsectionindent=\skip142
+\cftsubsectionnumwidth=\skip143
+\cftbeforesubsubsectionskip=\skip144
+\cftsubsubsectionindent=\skip145
+\cftsubsubsectionnumwidth=\skip146
+\cftbeforeparagraphskip=\skip147
+\cftparagraphindent=\skip148
+\cftparagraphnumwidth=\skip149
+\cftbeforesubparagraphskip=\skip150
+\cftsubparagraphindent=\skip151
+\cftsubparagraphnumwidth=\skip152
+\prechapterprecisshift=\dimen138
+\c@maxsecnumdepth=\count112
+\bibindent=\dimen139
+\bibitemsep=\skip153
+\indexcolsep=\skip154
+\indexrule=\skip155
+\indexmarkstyle=\toks18
+\@indexbox=\insert233
+\glossarycolsep=\dimen140
+\glossaryrule=\dimen141
+\sideparvshift=\skip156
+\sideins=\insert232
+\sidebartopsep=\skip157
+\sidebarhsep=\skip158
+\sidebarvsep=\skip159
+\sidebarwidth=\skip160
+\footmarkwidth=\skip161
+\footmarksep=\skip162
+\footparindent=\skip163
+\footinsdim=\skip164
+\footinsv@r=\insert231
+\@mpfootinsv@r=\insert230
+\m@m@k=\count113
+\m@m@h=\dimen142
+\m@mipn@skip=\skip165
+\sidefootins=\insert229
+\sidefootadjust=\skip166
+\sidefootheight=\skip167
+\sidefoothsep=\skip168
+\sidefootvsep=\skip169
+\sidefootwidth=\skip170
+\m@mdownsf=\skip171
+\c@sidefootnote=\count114
+\sidefootmarkwidth=\skip172
+\sidefootmarksep=\skip173
+\sidefootparindent=\skip174
+\c@pagenote=\count115
+\c@pagenoteshadow=\count116
+\mem@pn@lastkern=\skip175
+\every@verbatim=\toks19
+\afterevery@verbatim=\toks20
+\verbatim@line=\toks21
+\tab@position=\count117
+\verbatim@in@stream=\read1
+\verbatimindent=\skip176
+\verbatim@out=\write3
+\bvboxsep=\skip177
+\c@memfbvline=\count118
+\c@bvlinectr=\count119
+\bvnumlength=\skip178
+\fb@frw=\dimen143
+\fb@frh=\dimen144
+\FrameRule=\dimen145
+\FrameSep=\dimen146
+\c@cp@cntr=\count120
+LaTeX Info: Redefining \: on input line 11958.
+LaTeX Info: Redefining \! on input line 11960.
+\c@ism@mctr=\count121
+\c@xsm@mctr=\count122
+\c@csm@mctr=\count123
+\c@ksm@mctr=\count124
+\c@xksm@mctr=\count125
+\c@cksm@mctr=\count126
+\c@msm@mctr=\count127
+\c@xmsm@mctr=\count128
+\c@cmsm@mctr=\count129
+\c@bsm@mctr=\count130
+\c@workm@mctr=\count131
+\c@sheetsequence=\count132
+\c@lastsheet=\count133
+\c@lastpage=\count134
+\c@figure=\count135
+\c@lofdepth=\count136
+\cftbeforefigureskip=\skip179
+\cftfigureindent=\skip180
+\cftfigurenumwidth=\skip181
+\c@table=\count137
+\c@lotdepth=\count138
+\cftbeforetableskip=\skip182
+\cfttableindent=\skip183
+\cfttablenumwidth=\skip184
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package array [2008/09/09] emulated by memoir.
+Package booktabs [2008/07/23] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package dcolumn [2008/07/23] emulated by memoir.
+Package delarray [2008/07/23] emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package ifetex [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package tabularx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mempatch.sty
+Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
+))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2013/05/20 v2.3c Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3names.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3bootstrap.sty
+Package: l3bootstrap 2014/01/04 v4640 L3 Experimental bootstrap code
+)
+Package: l3names 2014/01/04 v4640 L3 Namespace for primitives
+)
+Package: expl3 2014/01/07 v4646 L3 Experimental code bundle wrapper
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3basics.sty
+Package: l3basics 2014/01/04 v4642 L3 Basic definitions
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3expan.sty
+Package: l3expan 2014/01/04 v4642 L3 Argument expansion
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3tl.sty
+Package: l3tl 2013/12/27 v4625 L3 Token lists
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3seq.sty
+Package: l3seq 2013/12/14 v4623 L3 Sequences and stacks
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3int.sty
+Package: l3int 2013/08/02 v4583 L3 Integers
+\c_max_int=\count139
+\l_tmpa_int=\count140
+\l_tmpb_int=\count141
+\g_tmpa_int=\count142
+\g_tmpb_int=\count143
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3quark.sty
+Package: l3quark 2013/12/14 v4623 L3 Quarks
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3prg.sty
+Package: l3prg 2014/01/04 v4642 L3 Control structures
+\g__prg_map_int=\count144
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3clist.sty
+Package: l3clist 2013/07/28 v4581 L3 Comma separated lists
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3token.sty
+Package: l3token 2013/08/25 v4587 L3 Experimental token manipulation
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3prop.sty
+Package: l3prop 2013/12/14 v4623 L3 Property lists
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3msg.sty
+Package: l3msg 2013/07/28 v4581 L3 Messages
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3file.sty
+Package: l3file 2013/10/13 v4596 L3 File and I/O operations
+\l_iow_line_count_int=\count145
+\l__iow_target_count_int=\count146
+\l__iow_current_line_int=\count147
+\l__iow_current_word_int=\count148
+\l__iow_current_indentation_int=\count149
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3skip.sty
+Package: l3skip 2013/07/28 v4581 L3 Dimensions and skips
+\c_zero_dim=\dimen147
+\c_max_dim=\dimen148
+\l_tmpa_dim=\dimen149
+\l_tmpb_dim=\dimen150
+\g_tmpa_dim=\dimen151
+\g_tmpb_dim=\dimen152
+\c_zero_skip=\skip185
+\c_max_skip=\skip186
+\l_tmpa_skip=\skip187
+\l_tmpb_skip=\skip188
+\g_tmpa_skip=\skip189
+\g_tmpb_skip=\skip190
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3keys.sty
+Package: l3keys 2013/12/08 v4614 L3 Experimental key-value interfaces
+\g__keyval_level_int=\count150
+\l_keys_choice_int=\count151
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3fp.sty
+Package: l3fp 2014/01/04 v4642 L3 Floating points
+\c__fp_leading_shift_int=\count152
+\c__fp_middle_shift_int=\count153
+\c__fp_trailing_shift_int=\count154
+\c__fp_big_leading_shift_int=\count155
+\c__fp_big_middle_shift_int=\count156
+\c__fp_big_trailing_shift_int=\count157
+\c__fp_Bigg_leading_shift_int=\count158
+\c__fp_Bigg_middle_shift_int=\count159
+\c__fp_Bigg_trailing_shift_int=\count160
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3box.sty
+Package: l3box 2013/07/28 v4581 L3 Experimental boxes
+\c_empty_box=\box29
+\l_tmpa_box=\box30
+\l_tmpb_box=\box31
+\g_tmpa_box=\box32
+\g_tmpb_box=\box33
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3coffins.sty
+Package: l3coffins 2013/12/14 v4624 L3 Coffin code layer
+\l__coffin_internal_box=\box34
+\l__coffin_internal_dim=\dimen153
+\l__coffin_offset_x_dim=\dimen154
+\l__coffin_offset_y_dim=\dimen155
+\l__coffin_x_dim=\dimen156
+\l__coffin_y_dim=\dimen157
+\l__coffin_x_prime_dim=\dimen158
+\l__coffin_y_prime_dim=\dimen159
+\c_empty_coffin=\box35
+\l__coffin_aligned_coffin=\box36
+\l__coffin_aligned_internal_coffin=\box37
+\l_tmpa_coffin=\box38
+\l_tmpb_coffin=\box39
+\l__coffin_display_coffin=\box40
+\l__coffin_display_coord_coffin=\box41
+\l__coffin_display_pole_coffin=\box42
+\l__coffin_display_offset_dim=\dimen160
+\l__coffin_display_x_dim=\dimen161
+\l__coffin_display_y_dim=\dimen162
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3color.sty
+Package: l3color 2012/08/29 v4156 L3 Experimental color support
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3luatex.sty
+Package: l3luatex 2013/07/28 v4581 L3 Experimental LuaTeX-specific functions
+\g__cctab_allocate_int=\count161
+\g__cctab_stack_int=\count162
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3candidates.sty
+Package: l3candidates 2014/01/06 v4643 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen163
+\l__box_bottom_dim=\dimen164
+\l__box_left_dim=\dimen165
+\l__box_right_dim=\dimen166
+\l__box_top_new_dim=\dimen167
+\l__box_bottom_new_dim=\dimen168
+\l__box_left_new_dim=\dimen169
+\l__box_right_new_dim=\dimen170
+\l__box_internal_box=\box43
+\l__coffin_bounding_shift_dim=\dimen171
+\l__coffin_left_corner_dim=\dimen172
+\l__coffin_right_corner_dim=\dimen173
+\l__coffin_bottom_corner_dim=\dimen174
+\l__coffin_top_corner_dim=\dimen175
+\l__coffin_scaled_total_height_dim=\dimen176
+\l__coffin_scaled_width_dim=\dimen177
+))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2013/12/31 v4634 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count163
+\l__xparse_m_args_int=\count164
+\l__xparse_mandatory_args_int=\count165
+\l__xparse_processor_int=\count166
+\l__xparse_v_nesting_int=\count167
+)
+\l_fontspec_script_int=\count168
+\l_fontspec_language_int=\count169
+\l_fontspec_strnum_int=\count170
+\l_fontspec_tmpa_dim=\dimen178
+\l_fontspec_tmpb_dim=\dimen179
+\l_fontspec_tmpc_dim=\dimen180
+Variant \tl_gset:cV already defined; not changing it on line 69
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-patches.sty
+Package: fontspec-patches 2013/05/20 v2.3c Font selection for XeLaTeX and LuaLa
+TeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
+LaTeX Info: Redefining \em on input line 420.
+LaTeX Info: Redefining \textsubscript on input line 424.
+)
+LaTeX Info: Redefining \em on input line 22.
+LaTeX Info: Redefining \emph on input line 30.
+LaTeX Info: Redefining \- on input line 33.
+
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \oldstylenums with arg. spec. 'm' on line 128.
+*************************************************
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \liningnums with arg. spec. 'm' on line 132.
+.................................................
+) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2013/05/20 v2.3c Font selection for XeLaTeX and LuaLaTe
+X
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1enc.def
+File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
+)
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 100.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmr.fd
+File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+
+(/usr/share/texmf/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmss.fd
+File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+\tipaTiiicode=\count171
+\tipasavetokens=\toks22
+\tipachecktokens=\toks23
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2013/04/29 v0.96 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+\Gin@req@height=\dimen181
+\Gin@req@width=\dimen182
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \fontspec with arg. spec. 'O{}m' on line 41.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmainfont with arg. spec. 'O{}m' on line 46.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setsansfont with arg. spec. 'O{}m' on line 51.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmonofont with arg. spec. 'O{}m' on line 56.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathrm with arg. spec. 'O{}m' on line 65.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setboldmathrm with arg. spec. 'O{}m' on line 69.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathsf with arg. spec. 'O{}m' on line 73.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathtt with arg. spec. 'O{}m' on line 77.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontfamily with arg. spec. 'mO{}m' on line 96.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontface with arg. spec. 'mO{}m' on line 100.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \defaultfontfeatures with arg. spec. 'om' on line
+. 108.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \addfontfeatures with arg. spec. 'm' on line 144.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontfeature with arg. spec. 'mm' on line 156.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newAATfeature with arg. spec. 'mmmm' on line 164.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newICUfeature with arg. spec. 'mmm' on line 172.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \aliasfontfeature with arg. spec. 'mm' on line
+. 201.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \aliasfontfeatureoption with arg. spec. 'mmm' on
+. line 203.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontscript with arg. spec. 'mm' on line 208.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontlanguage with arg. spec. 'mm' on line 235.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareFontsExtensions with arg. spec. 'm' on
+. line 256.
+.................................................
+Variant \prop_gput:cnV already defined; not changing it on line 582
+Variant \prop_gput:cnx already defined; not changing it on line 583
+\l_fontspec_tmp_int=\count172
+LaTeX Info: Redefining \itshape on input line 2087.
+LaTeX Info: Redefining \slshape on input line 2092.
+LaTeX Info: Redefining \scshape on input line 2097.
+LaTeX Info: Redefining \upshape on input line 2102.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+\g__file_internal_ior=\read2
+\g_fontspec_family_lmroman12-regular.otf_int=\count173
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'lmroman12-regular.otf(0)' created for font
+. 'lmroman12-regular.otf' with options [Ligatures=TeX,].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. 
+. <->"[lmroman12-regular.otf]/ICU:script=latn;language=DFLT;mapping=tex-text;"
+.................................................
+
+(/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box44
+\UL@hyphenbox=\box45
+\UL@skip=\skip191
+\UL@hook=\toks25
+\UL@height=\dimen183
+\UL@pe=\count174
+\UL@pixel=\dimen184
+\ULC@box=\box46
+Package: ulem 2012/05/18
+\ULdepth=\dimen185
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count175
+\float@exts=\toks26
+\float@box=\box47
+\@float@everytoks=\toks27
+\@floatcapt=\box48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write4
+
+Excluding comment 'comment')
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+
+Package epstopdf Warning: Drivers other than `pdftex.def' are not supported.
+
+))
+\Manual@idxfile=\write5
+\openout5 = `Manual.idx'.
+
+
+Writing index file Manual.idx 
+\Manualmemglofile=\write6
+\openout6 = `Manual.glo'.
+
+Writing glossary file Manual.glo 
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: xetex.def on input line 130.
+)
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Package option `usenames' ignored on input line 216.
+Package xcolor Info: Driver file: xetex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+\everycr=\toks28
+\minrowclearance=\skip192
+)
+LaTeX Info: Redefining \color on input line 702.
+\rownum=\count176
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+)
+(/usr/share/texmf/tex/latex/xcolor/svgnam.def
+File: svgnam.def 2007/01/21 v2.11 Predefined colors according to SVG 1.1 (UK)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2013/12/03 3.9h The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2013/12/03 3.9h Babel common definitions
+\babel@savecnt=\count177
+\U@D=\dimen186
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/xebabel.def))
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/share/texlive/texmf-dist/tex/latex/datetime/datetime.sty
+Package: datetime 2013/09/10 v2.59 Date Time Package
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+\etb@tempcnta=\count178
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+Package: fmtcount 2013/08/17 v2.03
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
+Package: fcnumparser 2012/09/28
+\fc@digit@counter=\count179
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks29
+\ex@=\dimen187
+)
+\c@padzeroesN=\count180
+\fc@tmpcatcode=\count181
+
+(/usr/share/texlive/texmf-dist/tex/latex/fmtcount/fc-english.def
+File: fc-english.def 2013/08/17
+)
+\@DT@modctr=\count182
+\@ordinalctr=\count183
+\@orgargctr=\count184
+\@strctr=\count185
+\@tmpstrctr=\count186
+\@DT@loopN=\count187
+\@DT@X=\count188
+
+
+Package fmtcount Warning: \ordinal already defined use \FCordinal instead. on i
+nput line 450.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/datetime/datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count189
+\@month=\count190
+\@year=\count191
+\c@HOUR=\count192
+\c@HOURXII=\count193
+\c@MINUTE=\count194
+\c@TOHOUR=\count195
+\c@TOMINUTE=\count196
+Normal \count register pool exhausted, switching to extended pool.
+\c@SECOND=\count277
+\currenthour=\count278
+\currentminute=\count279
+\currentsecond=\count280
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count281
+\dayofyear=\count282
+\dayofweek=\count283
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks30
+\dt@b=\toks31
+)
+
+******************************************************
+Stock height and width: 699.36879pt by 537.75691pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 699.36879pt by 537.75691pt
+Text height and width: 540.60236pt by 381pt
+Spine and edge margins: 85.35803pt and 71.13188pt
+Upper and lower margins: 56.9055pt and 101.86093pt
+Headheight and headsep: 12pt and 19.8738pt
+Footskip: 56.9055pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 57.13188pt
+Sidecapsep and sidecapwidth: 7pt and 102pt
+Sidebarhsep and sidebarwidth: 7pt and 102pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 546.64995pt
+Sidefoothsep and sidefootwidth: 7pt and 102pt
+Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
+******************************************************
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count284
+\uc@combtoks=\toks32
+\uc@combtoksb=\toks33
+\uc@temptokena=\toks34
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
+\MT@toks=\toks35
+\MT@count=\count285
+LaTeX Info: Redefining \textls on input line 766.
+\MT@outer@kern=\dimen188
+LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
+\MT@listname@count=\count286
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-xetex.def
+File: microtype-xetex.def 2013/05/23 v2.5a Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 254.
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/eledmac/eledmac.sty
+Package: eledmac 2014/02/05 v1.9.0 LaTeX port of EDMAC
+
+(/usr/share/texlive/texmf-dist/tex/latex/xargs/xargs.sty
+Package: xargs 2008/03/22 v1.1  extended macro definitions  (mpg)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks36
+\XKV@tempa@toks=\toks37
+\XKV@depth=\count287
+File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+))
+\xargs@max=\count288
+\xargs@toksa=\toks38
+\xargs@toksb=\toks39
+)
+(/usr/share/texlive/texmf-dist/tex/latex/bigfoot/suffix.sty
+Package: suffix 2006/07/15 1.5 Variant command support
+)
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write7
+\integerpart=\count289
+\decimalpart=\count290
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+\@l@dtempcnta=\count291
+\@l@dtempcntb=\count292
+\section@num=\count293
+\l@dnumpstartsL=\count294
+\line@margin=\count295
+\c@firstlinenum=\count296
+\c@linenumincrement=\count297
+\c@firstsublinenum=\count298
+\c@sublinenumincrement=\count299
+\lock@disp=\count300
+\sublock@disp=\count301
+\linenumsep=\skip193
+\@toksa=\toks40
+\@toksb=\toks41
+\line@num=\count302
+\subline@num=\count303
+\absline@num=\count304
+\@lock=\count305
+\sub@lock=\count306
+\page@num=\count307
+\endpage@num=\count308
+\endline@num=\count309
+\endsubline@num=\count310
+\@inputcheck=\read3
+\last@page@num=\count311
+\insert@count=\count312
+\linenum@out=\write8
+\raw@text=\box49
+\num@lines=\count313
+\one@line=\box50
+\par@line=\count314
+\c@pstart=\count315
+\ballast@count=\count316
+\c@ballast=\count317
+\@k=\count318
+\@h=\dimen189
+\l@d@end=\write9
+\mpfootinsA=\insert228
+\footinsA=\insert227
+\Afootins=\insert226
+\mpAfootins=\insert225
+\c@footnoteA=\count319
+\mpfootinsB=\insert224
+\footinsB=\insert223
+\Bfootins=\insert222
+\mpBfootins=\insert221
+\c@footnoteB=\count320
+\mpfootinsC=\insert220
+\footinsC=\insert219
+\Cfootins=\insert218
+\mpCfootins=\insert217
+\c@footnoteC=\count321
+\mpfootinsD=\insert216
+\footinsD=\insert215
+\Dfootins=\insert214
+\mpDfootins=\insert213
+\c@footnoteD=\count322
+\mpfootinsE=\insert212
+\footinsE=\insert211
+\Efootins=\insert210
+\mpEfootins=\insert209
+\c@footnoteE=\count323
+\mpfootinsZ=\insert208
+\footinsZ=\insert207
+\Zfootins=\insert206
+\mpZfootins=\insert205
+\c@footnoteZ=\count324
+\ipn@skip=\skip194
+\c@line=\count325
+\c@subline=\count326
+\sidenote@margin=\count327
+\l@dlp@rbox=\box51
+\l@drp@rbox=\box52
+\ledlsnotewidth=\dimen190
+\ledrsnotewidth=\dimen191
+\ledlsnotesep=\dimen192
+\ledrsnotesep=\dimen193
+\c@labidx=\count328
+\@emptytoks=\toks42
+\l@denvbody=\toks43
+\stanza@count=\count329
+\stanzaindentbase=\skip195
+\c@stanzaindentsrepetition=\count330
+\stanza@modulo=\count331
+\l@dampcount=\count332
+\l@dcolcount=\count333
+\hilfsbox=\box53
+\hilfsskip=\skip196
+\Hilfsbox=\box54
+\hilfscount=\count334
+\dcoli=\dimen194
+\dcolii=\dimen195
+\dcoliii=\dimen196
+Normal \dimen register pool exhausted, switching to extended pool.
+\dcoliv=\dimen256
+\dcolv=\dimen257
+\dcolvi=\dimen258
+\dcolvii=\dimen259
+\dcolviii=\dimen260
+\dcolix=\dimen261
+\dcolx=\dimen262
+\dcolxi=\dimen263
+\dcolxii=\dimen264
+\dcolxiii=\dimen265
+\dcolxiv=\dimen266
+\dcolxv=\dimen267
+\dcolxvi=\dimen268
+\dcolxvii=\dimen269
+\dcolxviii=\dimen270
+\dcolxix=\dimen271
+\dcolxx=\dimen272
+\dcolxxi=\dimen273
+\dcolxxii=\dimen274
+\dcolxxiii=\dimen275
+\dcolxxiv=\dimen276
+\dcolxxv=\dimen277
+\dcolxxvi=\dimen278
+\dcolxxvii=\dimen279
+\dcolxxviii=\dimen280
+\dcolxxix=\dimen281
+\dcolxxx=\dimen282
+\dcolerr=\dimen283
+\@hilfs@count=\count335
+Normal \skip register pool exhausted, switching to extended pool.
+\edtabcolsep=\skip256
+\edfilldimen=\dimen284
+\c@addcolcount=\count336
+\HILFSskip=\skip257
+\Hilfsskip=\skip258
+\tabhilfbox=\box55
+\tabHilfbox=\box56
+)
+
+******************************************************
+Stock height and width: 699.36879pt by 537.75691pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 699.36879pt by 537.75691pt
+Text height and width: 555.70007pt by 381pt
+Spine and edge margins: 85.35803pt and 71.13188pt
+Upper and lower margins: 56.9055pt and 86.76321pt
+Headheight and headsep: 12pt and 19.8738pt
+Footskip: 56.9055pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 57.13188pt
+Sidecapsep and sidecapwidth: 7pt and 102pt
+Sidebarhsep and sidebarwidth: 7pt and 102pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 546.64995pt
+Sidefoothsep and sidefootwidth: 7pt and 102pt
+Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
+******************************************************
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+)) (./Manual.aux
+(./Title.aux) (./Copyright.aux) (./Warnings.aux) (./Software.aux
+
+LaTeX Warning: Label `fig:Printrun' multiply defined.
+
+) (./Slicer.aux) (./Maintenance.aux) (./Advanced.aux) (./Source.aux)
+(./Support.aux) (./Contact.aux) (./Colophon.aux))
+\openout1 = `Manual.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 194.
+LaTeX Font Info:    ... okay on input line 194.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 194.
+LaTeX Font Info:    ... okay on input line 194.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 194.
+LaTeX Font Info:    ... okay on input line 194.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 194.
+LaTeX Font Info:    ... okay on input line 194.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 194.
+LaTeX Font Info:    ... okay on input line 194.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 194.
+LaTeX Font Info:    ... okay on input line 194.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 194.
+LaTeX Font Info:    ... okay on input line 194.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 194.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 194.
+
+(/usr/share/texmf/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 194.
+.................................................
+. fontspec info: "setup-math"
+. 
+. Adjusting the maths setup (use [no-math] to avoid this).
+.................................................
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 194.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 194.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 194.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 194.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 194.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 194.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 194.
+LaTeX Font Info:    Redeclaring math accent \check on input line 194.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 194.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 194.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 194.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 194.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 194.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 194.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 194.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 194.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 194.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 194.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 194.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 194.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 194.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 194.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 194.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 194.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 194.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 194.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> EU1/lmroman12-regular.otf(0)/m/n on inp
+ut line 194.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 194.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> EU1/lmroman12-regular.otf(0)/m/n on in
+put line 194.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  EU1/lmroman12-regular.otf(0)/m/n --> EU1/lmroman12-regu
+lar.otf(0)/m/n on input line 194.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  EU1/lmroman12-regular.otf(0)/m/n --> EU1/lmroman12-regu
+lar.otf(0)/m/n on input line 194.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> EU1/lmroman12-regular.otf(0)/m/it on i
+nput line 194.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> EU1/lmroman12-regular.otf(0)/bx/n on i
+nput line 194.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 194.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 194.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  EU1/lmroman12-regular.otf(0)/m/n --> EU1/lmroman12-regu
+lar.otf(0)/bx/n on input line 194.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  EU1/lmroman12-regular.otf(0)/m/n --> EU1/lmroman12-regu
+lar.otf(0)/bx/n on input line 194.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> EU1/lmroman12-regular.otf(0)/bx/it on
+ input line 194.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 194.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 194.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+T3\textscriptg already defined.
+
+fontencoding T3 patched
+)
+Package microtype Info: Patching (e)ledmac to enable character protrusion.
+LaTeX Info: Redefining \microtypecontext on input line 194.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+Package microtype Info: Redefining babel's language switching commands.
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmroman12-regular.otf' (encoding: EU1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+\openout2 = `Title.aux'.
+
+ (./Title.tex
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font Outage.ttf does not contain any OpenType `Script' information.
+.................................................
+\g_fontspec_family_Outage.ttf_int=\count337
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Outage.ttf(0)' created for font 'Outage.ttf' with options
+. [Ligatures=TeX,].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"[Outage.ttf]/ICU:mapping=tex-text;"
+.................................................
+Package microtype Info: Loading generic settings for font family
+(microtype)             `Outage.ttf' (encoding: EU1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `\quotedblbase ' is missing
+(microtype)             in font `\EU1/Outage.ttf(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglright ' is missing
+(microtype)             in font `\EU1/Outage.ttf(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotright ' is missing
+(microtype)             in font `\EU1/Outage.ttf(0)/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotedblbase ' is missing
+(microtype)             in font `\EU1/Outage.ttf(0)/m/n/24'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglright ' is missing
+(microtype)             in font `\EU1/Outage.ttf(0)/m/n/24'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotright ' is missing
+(microtype)             in font `\EU1/Outage.ttf(0)/m/n/24'.
+(microtype)             Ignoring protrusion settings for this character.
+File: ./images-1600x1200/mini.jpg Graphic file (type QTm)
+ <use  "./images-1600x1200/mini.jpg" >
+Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
+File: ./images-1600x1200/Lulzbot_LogoTM_4c.eps Graphic file (type eps)
+
+<./images-1600x1200/Lulzbot_LogoTM_4c.eps>
+
+LaTeX Font Warning: Font shape `EU1/lmroman12-regular.otf(0)/m/it' undefined
+(Font)              using `EU1/lmroman12-regular.otf(0)/m/n' instead on input l
+ine 38.
+
+) [1
+
+
+
+]
+\openout2 = `Copyright.aux'.
+
+ (./Copyright.tex
+\g_fontspec_family_Montserrat-Regular.ttf_int=\count338
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Montserrat-Regular.ttf(0)' created for font
+. 'Montserrat-Regular.ttf' with options [Ligatures=TeX,].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. 
+. <->"[Montserrat-Regular.ttf]/ICU:script=latn;language=DFLT;mapping=tex-text;"
+
+.................................................
+Package microtype Info: Loading generic settings for font family
+(microtype)             `Montserrat-Regular.ttf' (encoding: EU1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+
+LaTeX Font Warning: Font shape `EU1/Montserrat-Regular.ttf(0)/bx/n' undefined
+(Font)              using `EU1/Montserrat-Regular.ttf(0)/m/n' instead on input 
+line 20.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 20.
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 36.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd
+File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmtt' (encoding: EU1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+) [2
+
+
+
+]
+
+LaTeX Font Warning: Font shape `EU1/lmroman12-regular.otf(0)/bx/n' undefined
+(Font)              using `EU1/lmroman12-regular.otf(0)/m/n' instead on input l
+ine 226.
+
+(./Manual.toc
+
+LaTeX Font Warning: Font shape `EU1/lmroman12-regular.otf(0)/bx/it' undefined
+(Font)              using `EU1/lmroman12-regular.otf(0)/bx/n' instead on input 
+line 2.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+
+Class memoir Warning: The material used in the headers is too large
+(14.49998pt) for the given head height (12.0pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 131.
+
+
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[3
+
+]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[4])
+
+LaTeX Font Warning: Font shape `EU1/lmroman12-regular.otf(0)/m/sc' undefined
+(Font)              using `EU1/lmroman12-regular.otf(0)/m/n' instead on input l
+ine 233.
+
+
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[5] (./Manual.lof
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[6
+
+]
+Underfull \hbox (badness 6691) in paragraph at lines 56--56
+ [][] []\EU1/lmroman12-regular.otf(0)/m/it/12 Infill patterns at varying densit
+ies. Left to Right: 
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 56--56
+ \EU1/lmroman12-regular.otf(0)/m/it/12 Line, Rectilinear, Hilbert Curve, Archim
+edean Chords, 
+ []
+
+
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[7])
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[8] [9
+
+]
+\openout2 = `Warnings.aux'.
+
+ (./Warnings.tex
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[10
+
+])
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[11] [12
+
+
+] [13
+
+]
+\openout2 = `Software.aux'.
+
+ (./Software.tex
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+\EU1/lmroman12-regular.otf(0)/m/sc/12 These programs take the 3-Dimensional mod
+el (typically
+ []
+
+
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[14
+
+] (./Cura.tex
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+\EU1/lmroman12-regular.otf(0)/m/sc/12 Cura is available for download on our web
+site at
+ []
+
+
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[15]
+File: ./images-1600x1200/Quick_Settings.png Graphic file (type QTm)
+ <use  "./images-1600x1200/Quick_Settings.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[16]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[17]
+File: ./images-1600x1200/Options.png Graphic file (type QTm)
+ <use  "./images-1600x1200/Options.png" >
+File: ./images-1600x1200/Rotate.png Graphic file (type QTm)
+
+<use  "./images-1600x1200/Rotate.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[18]
+File: ./images-1600x1200/Scale.png Graphic file (type QTm)
+ <use  "./images-1600x1200/Scale.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[19]
+File: ./images-1600x1200/View.png Graphic file (type QTm)
+ <use  "./images-1600x1200/View.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[20]
+File: ./images-1600x1200/overhang.png Graphic file (type QTm)
+ <use  "./images-1600x1200/overhang.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[21]
+File: ./images-1600x1200/Ghost.png Graphic file (type QTm)
+ <use  "./images-1600x1200/Ghost.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[22]
+File: ./images-1600x1200/Xray2.png Graphic file (type QTm)
+ <use  "./images-1600x1200/Xray2.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[23]
+File: ./images-1600x1200/layers.png Graphic file (type QTm)
+ <use  "./images-1600x1200/layers.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[24]
+File: ./images-1600x1200/layers2.png Graphic file (type QTm)
+ <use  "./images-1600x1200/layers2.png" > Excluding 'comment' comment.
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[25]
+File: ./images-1600x1200/print_control.png Graphic file (type QTm)
+ <use  "./images-1600x1200/print_control.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[26]
+File: ./images-1600x1200/Expert.png Graphic file (type QTm)
+ <use  "./images-1600x1200/Expert.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[27]
+File: ./images-1600x1200/Layerheight.png Graphic file (type QTm)
+ <use  "./images-1600x1200/Layerheight.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[28]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[29]
+File: ./images-1600x1200/Support.JPG Graphic file (type QTm)
+ <use  "./images-1600x1200/Support.JPG" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[30]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[31]
+File: ./images-1600x1200/cutoff.png Graphic file (type QTm)
+ <use  "./images-1600x1200/cutoff.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[32]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[33]
+File: ./images-1600x1200/Plugins.png Graphic file (type QTm)
+ <use  "./images-1600x1200/Plugins.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[34]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[35]
+File: ./images-1600x1200/Expert.png Graphic file (type QTm)
+ <use  "./images-1600x1200/Expert.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[36]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[37]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[38]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[39]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[40]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[41]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[42])
+File: ./images-1600x1200/printrun.png Graphic file (type QTm)
+ <use  "./images-1600x1200/printrun.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[43]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 118--126
+\EU1/lmtt/m/n/12 python-pyglet python-tornado python-setuptools
+ []
+
+
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[45]
+File: ./images-1600x1200/printrun.png Graphic file (type QTm)
+ <use  "./images-1600x1200/printrun.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[46]
+File: ./images-1600x1200/printrun-labels.png Graphic file (type QTm)
+ <use  "./images-1600x1200/printrun-labels.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[47]
+File: ./images-1600x1200/printrun_controls.png Graphic file (type QTm)
+ <use  "./images-1600x1200/printrun_controls.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[48]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[49] Excluding 'comment' comment. Excluding 'comment' comment.
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[50])
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[51]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[52] Excluding 'comment' comment. [53
+
+
+]
+\openout2 = `Slicer.aux'.
+
+ (./Slicer.tex (./slic3r/Intro.tex)
+(./slic3r/GettingSlic3r.tex
+Overfull \hbox (14.624pt too wide) in paragraph at lines 12--13
+[] 
+ []
+
+
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[54
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+\EU1/lmroman12-regular.otf(0)/m/sc/12 can be downloaded from the LulzBot.com do
+wnloads page:
+ []
+
+
+Overfull \hbox (22.82803pt too wide) in paragraph at lines 40--41
+\EU1/lmroman12-regular.otf(0)/m/sc/12 The source code is available via GitHub: 
+\EU1/lmtt/m/n/12 https://github.com/alexrj/Slic3r\EU1/lmroman12-regular.otf(0)/
+m/sc/12 .
+ []
+
+
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+\EU1/lmroman12-regular.otf(0)/m/sc/12 For those wishing to live on the cutting 
+edge, Slic3r can
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+\EU1/lmroman12-regular.otf(0)/m/sc/12 be compiled from the latest source files 
+found on GitHub
+ []
+
+) (./slic3r/FirstPrint.tex (./slic3r/Calibration.tex
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[56])
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[57] (./slic3r/ConfigurationWizard.tex
+File: ./images-1600x1200/configuration_wizard/configuration_wizard_welcome.png 
+Graphic file (type QTm)
+
+<use  "./images-1600x1200/configuration_wizard/configuration_wizard_welcome.png
+" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[58]
+File: ./images-1600x1200/configuration_wizard/configuration_wizard_firmware_typ
+e.png Graphic file (type QTm)
+
+<use  "./images-1600x1200/configuration_wizard/configuration_wizard_firmware_ty
+pe.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[59]
+File: ./images-1600x1200/configuration_wizard/configuration_wizard_bed_size.png
+ Graphic file (type QTm)
+
+<use  "./images-1600x1200/configuration_wizard/configuration_wizard_bed_size.pn
+g" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[60]
+File: ./images-1600x1200/configuration_wizard/configuration_wizard_nozzle_diame
+ter.png Graphic file (type QTm)
+
+<use  "./images-1600x1200/configuration_wizard/configuration_wizard_nozzle_diam
+eter.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[61]
+File: ./images-1600x1200/configuration_wizard/configuration_wizard_filament_dia
+meter.png Graphic file (type QTm)
+
+<use  "./images-1600x1200/configuration_wizard/configuration_wizard_filament_di
+ameter.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[62]
+File: ./images-1600x1200/configuration_wizard/configuration_wizard_extrusion_te
+mperature.png Graphic file (type QTm)
+
+<use  "./images-1600x1200/configuration_wizard/configuration_wizard_extrusion_t
+emperature.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[63]
+File: ./images-1600x1200/configuration_wizard/configuration_wizard_bed_temperat
+ure.png Graphic file (type QTm)
+
+<use  "./images-1600x1200/configuration_wizard/configuration_wizard_bed_tempera
+ture.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[64]
+File: ./images-1600x1200/configuration_wizard/configuration_wizard_end.png Grap
+hic file (type QTm)
+
+<use  "./images-1600x1200/configuration_wizard/configuration_wizard_end.png" >)
+
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[65] (./slic3r/FirstLayer.tex
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[66])
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[67] (./slic3r/WorkingWithModels.tex
+File: ./images-1600x1200/working_with_models/shapesmith.png Graphic file (type 
+QTm)
+
+<use  "./images-1600x1200/working_with_models/shapesmith.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[68]
+File: ./images-1600x1200/working_with_models/plater.png Graphic file (type QTm)
+
+ <use  "./images-1600x1200/working_with_models/plater.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[69]
+File: ./images-1600x1200/working_with_models/minimug_model.png Graphic file (ty
+pe QTm)
+ <use  "./images-1600x1200/working_with_models/minimug_model.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[70]
+File: ./images-1600x1200/working_with_models/plater_model_loaded.png Graphic fi
+le (type QTm)
+ <use  "./images-1600x1200/working_with_models/plater_model_loaded.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[71])
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[72] (./slic3r/Printing.tex)) (./slic3r/SimpleMode.tex
+File: ./images-1600x1200/simple_mode/preferences_general.png Graphic file (type
+ QTm)
+
+<use  "./images-1600x1200/simple_mode/preferences_general.png" >
+File: ./images-1600x1200/simple_mode/simple_mode_print_settings.png Graphic fil
+e (type QTm)
+
+<use  "./images-1600x1200/simple_mode/simple_mode_print_settings.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[73]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[74]
+File: ./images-1600x1200/simple_mode/bad_top_infill.jpg Graphic file (type QTm)
+
+ <use  "./images-1600x1200/simple_mode/bad_top_infill.jpg" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[75]
+File: ./images-1600x1200/simple_mode/solid_layers_vases.png Graphic file (type 
+QTm)
+ <use  "./images-1600x1200/simple_mode/solid_layers_vases.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[76]
+File: ./images-1600x1200/simple_mode/support_example.jpg Graphic file (type QTm
+)
+ <use  "./images-1600x1200/simple_mode/support_example.jpg" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[77]
+File: ./images-1600x1200/simple_mode/brim.jpg Graphic file (type QTm)
+ <use  "./images-1600x1200/simple_mode/brim.jpg" >
+File: ./images-1600x1200/simple_mode/simple_mode_filament_settings.png Graphic 
+file (type QTm)
+
+<use  "./images-1600x1200/simple_mode/simple_mode_filament_settings.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[78]
+File: ./images-1600x1200/simple_mode/simple_mode_printer_settings.png Graphic f
+ile (type QTm)
+ <use  "./images-1600x1200/simple_mode/simple_mode_printer_settings.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[79]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[80]
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
+ [][] [][]\EU1/lmroman12-regular.otf(0)/m/n/10 https://github.com/alexrj/Slic3r
+/wiki/FAQ#what-placeholders-can-i-use-in-
+ []
+
+
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[81]) (./slic3r/ExpertMode.tex (./slic3r/Speed.tex
+File: ./images-1600x1200/expertmode/speed_advanced_settings.png Graphic file (t
+ype QTm)
+
+<use  "./images-1600x1200/expertmode/speed_advanced_settings.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[82]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[83])
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[84]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[85] (./slic3r/InfillPatternsAndDensity.tex
+File: ./images-1600x1200/expertmode/infill_pattern_settings.png Graphic file (t
+ype QTm)
+
+<use  "./images-1600x1200/expertmode/infill_pattern_settings.png" >
+File: ./images-1600x1200/expertmode/infill_line.png Graphic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/infill_line.png" >
+File: ./images-1600x1200/expertmode/infill_rectilinear.png Graphic file (type Q
+Tm)
+
+<use  "./images-1600x1200/expertmode/infill_rectilinear.png" >
+File: ./images-1600x1200/expertmode/infill_concentric.png Graphic file (type QT
+m)
+
+<use  "./images-1600x1200/expertmode/infill_concentric.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[86]
+File: ./images-1600x1200/expertmode/infill_honeycomb.png Graphic file (type QTm
+)
+ <use  "./images-1600x1200/expertmode/infill_honeycomb.png" >
+File: ./images-1600x1200/expertmode/infill_hilbertcurve.png Graphic file (type 
+QTm)
+
+<use  "./images-1600x1200/expertmode/infill_hilbertcurve.png" >
+File: ./images-1600x1200/expertmode/infill_archimedeanchords.png Graphic file (
+type QTm)
+
+<use  "./images-1600x1200/expertmode/infill_archimedeanchords.png" >
+File: ./images-1600x1200/expertmode/infill_octagramspiral.png Graphic file (typ
+e QTm)
+
+<use  "./images-1600x1200/expertmode/infill_octagramspiral.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[87]
+File: ./images-1600x1200/expertmode/complex_object_infill_comparison.png Graphi
+c file (type QTm)
+
+<use  "./images-1600x1200/expertmode/complex_object_infill_comparison.png" >
+File: ./images-1600x1200/expertmode/infills.png Graphic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/infills.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[88]) (./slic3r/InfillOptimization.tex
+File: ./images-1600x1200/expertmode/infill_advanced_settings.png Graphic file (
+type QTm)
+
+<use  "./images-1600x1200/expertmode/infill_advanced_settings.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[89]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[90]) (./slic3r/FightingOoze.tex
+File: ./images-1600x1200/expertmode/retraction_settings.png Graphic file (type 
+QTm)
+
+<use  "./images-1600x1200/expertmode/retraction_settings.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[91]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[92]) (./slic3r/Skirt.tex
+File: ./images-1600x1200/expertmode/skirt_settings.png Graphic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/skirt_settings.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[93]) (./slic3r/Cooling.tex
+File: ./images-1600x1200/expertmode/cooling_chart.png Graphic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/cooling_chart.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[94]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[95]
+File: ./images-1600x1200/expertmode/cooling_advanced_settings.png Graphic file 
+(type QTm)
+ <use  "./images-1600x1200/expertmode/cooling_advanced_settings.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[96]) (./slic3r/SupportMaterial.tex
+File: ./images-1600x1200/expertmode/support/advanced_support.png Graphic file (
+type QTm)
+
+<use  "./images-1600x1200/expertmode/support/advanced_support.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[97]
+File: ./images-1600x1200/expertmode/support/support_minimug_45deg.png Graphic f
+ile (type QTm)
+ <use  "./images-1600x1200/expertmode/support/support_minimug_45deg.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[98]
+File: ./images-1600x1200/expertmode/support/support_pattern_rectlinear.png Grap
+hic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/support/support_pattern_rectlinear.png" >
+File: ./images-1600x1200/expertmode/support/support_pattern_rectlinear_grid.png
+ Graphic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/support/support_pattern_rectlinear_grid.pn
+g" >
+File: ./images-1600x1200/expertmode/support/support_pattern_honeycomb.png Graph
+ic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/support/support_pattern_honeycomb.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[99]
+File: ./images-1600x1200/expertmode/support/support_pattern_rectlinear_rotated.
+png Graphic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/support/support_pattern_rectlinear_rotated
+.png" >) (./slic3r/MultipleExtruders.tex
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[100]
+File: ./images-1600x1200/expertmode/multipleextruders/printer_settings_general_
+multiple_extruder_options.png Graphic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/multipleextruders/printer_settings_general
+_multiple_extruder_options.png" >
+File: ./images-1600x1200/expertmode/multipleextruders/printer_settings_extruder
+_multiple_extruder_options.png Graphic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/multipleextruders/printer_settings_extrude
+r_multiple_extruder_options.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[101]
+File: ./images-1600x1200/expertmode/multipleextruders/plater_multi_filament.png
+ Graphic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/multipleextruders/plater_multi_filament.pn
+g" >
+File: ./images-1600x1200/expertmode/multipleextruders/print_settings_multiple_e
+xtruder_options.png Graphic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/multipleextruders/print_settings_multiple_
+extruder_options.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[102]
+File: ./images-1600x1200/expertmode/multipleextruders/printer_settings_custom_g
+code.png Graphic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/multipleextruders/printer_settings_custom_
+gcode.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[103]) (./slic3r/ExtrusionWidth.tex
+File: ./images-1600x1200/expertmode/advanced_extrusion_widths_options.png Graph
+ic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/advanced_extrusion_widths_options.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[104]) (./slic3r/VariableLayerHeight.tex
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[105]
+File: ./images-1600x1200/expertmode/variable_layer_height/example_model.png Gra
+phic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/variable_layer_height/example_model.png" >
+File: ./images-1600x1200/expertmode/variable_layer_height/example_gcode_normal_
+layer_heights.png Graphic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/variable_layer_height/example_gcode_normal
+_layer_heights.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[106]
+File: ./images-1600x1200/expertmode/variable_layer_height/variable_layer_height
+_options_tab_1.png Graphic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/variable_layer_height/variable_layer_heigh
+t_options_tab_1.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[107]
+File: ./images-1600x1200/expertmode/variable_layer_height/variable_layer_height
+_options_tab_2.png Graphic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/variable_layer_height/variable_layer_heigh
+t_options_tab_2.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[108]
+File: ./images-1600x1200/expertmode/variable_layer_height/example_gcode_variabl
+e_layer_heights.png Graphic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/variable_layer_height/example_gcode_variab
+le_layer_heights.png" >
+File: ./images-1600x1200/expertmode/variable_layer_height/example_print.jpg Gra
+phic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/variable_layer_height/example_print.jpg" >
+
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[109]
+File: ./images-1600x1200/expertmode/variable_layer_height/example_gcode_skipped
+_layers.png Graphic file (type QTm)
+
+<use  "./images-1600x1200/expertmode/variable_layer_height/example_gcode_skippe
+d_layers.png" >)) (./slic3r/ConfigurationOrganization.tex
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[110]
+File: ./images-1600x1200/organising/creating_a_profile.png Graphic file (type Q
+Tm)
+ <use  "./images-1600x1200/organising/creating_a_profile.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[111]
+File: ./images-1600x1200/organising/deleting_a_profile.png Graphic file (type Q
+Tm)
+ <use  "./images-1600x1200/organising/deleting_a_profile.png" >)
+(./slic3r/RepairingModels.tex
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[112]
+File: ./images-1600x1200/working_with_models/freecad_part_repair.png Graphic fi
+le (type QTm)
+ <use  "./images-1600x1200/working_with_models/freecad_part_repair.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[113]) (./slic3r/AdvancedTopics.tex (./slic3r/SequentialPrinting.tex
+File: ./images-1600x1200/simple_mode/sequential_printing_options.png Graphic fi
+le (type QTm)
+
+<use  "./images-1600x1200/simple_mode/sequential_printing_options.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[114]
+File: ./images-1600x1200/simple_mode/extruder_clearance.jpg Graphic file (type 
+QTm)
+ <use  "./images-1600x1200/simple_mode/extruder_clearance.jpg" >)
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[115] (./slic3r/CommandLineUsage.tex
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[116]
+Overfull \hbox (4.85606pt too wide) in paragraph at lines 74--74
+[]    \EU1/lmtt/m/n/8 --first-layer-bed-temperature Heated bed temperature for 
+the first layer, in degree Celsius,[] 
+ []
+
+
+Overfull \hbox (11.23207pt too wide) in paragraph at lines 84--84
+[]                        \EU1/lmtt/m/n/8 Speed of print moves for the external
+ perimeter in mm/s or % over perimeter speed[] 
+ []
+
+
+Overfull \hbox (29.6401pt too wide) in paragraph at lines 89--89
+[]    \EU1/lmtt/m/n/8 --top-solid-infill-speed Speed of print moves for top sur
+faces in mm/s or % over solid infill speed[] 
+ []
+
+
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[117]
+Overfull \hbox (13.2161pt too wide) in paragraph at lines 123--123
+[]    \EU1/lmtt/m/n/8 --bottom-solid-layers  Number of solid layers to do for b
+ottom surfaces (range: 0+, default: 3)[] 
+ []
+
+
+Overfull \hbox (25.96004pt too wide) in paragraph at lines 138--138
+[]    \EU1/lmtt/m/n/8 --avoid-crossing-perimeters Optimize travel moves so that
+ no perimeters are crossed (default: no)[] 
+ []
+
+
+Overfull \hbox (5.42407pt too wide) in paragraph at lines 141--141
+[]                        \EU1/lmtt/m/n/8 Disable retraction when travelling be
+tween infill paths inside the same island.[] 
+ []
+
+
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[118]
+Overfull \hbox (5.5681pt too wide) in paragraph at lines 211--211
+[]    \EU1/lmtt/m/n/8 --min-skirt-length  Generate no less than the number of l
+oops required to consume this length[] 
+ []
+
+
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[119])
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[120] (./slic3r/PostProcessingScripts.tex
+Overfull \hbox (16.25pt too wide) in paragraph at lines 8--8
+ [][] [][]\EU1/lmtt/m/n/10 https://github.com/alexrj/Slic3r/wiki/Writing-post-p
+rocessing-scripts| 
+ []
+
+File: ./images-1600x1200/advanced/post_processing_scripts/post_processing_scrip
+ts_options.png Graphic file (type QTm)
+
+<use  "./images-1600x1200/advanced/post_processing_scripts/post_processing_scri
+pts_options.png" >
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[121])
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[122]) (./slic3r/Troubleshooting.tex (./slic3r/ZWobble.tex)
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[123]) (./slic3r/Slic3rSupport.tex
+Overfull \hbox (18.77907pt too wide) in paragraph at lines 18--19
+[]\EU1/lmtt/m/n/12 https://github.com/alexrj/Slic3r/wiki/Documentation 
+ []
+
+
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[124]))
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[125] [126
+
+
+] [127]
+\openout2 = `Maintenance.aux'.
+
+ (./Maintenance.tex
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[128
+
+])
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[129]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[130] [131
+
+
+]
+\openout2 = `Advanced.aux'.
+
+ (./Advanced.tex
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[132
+
+])
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[133]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[134] [135
+
+
+]
+\openout2 = `Source.aux'.
+
+ (./Source.tex)
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[136
+
+] [137
+
+
+]
+\openout2 = `Support.aux'.
+
+ (./Support.tex)
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[138
+
+] [139
+
+
+]
+\openout2 = `Contact.aux'.
+
+ (./Contact.tex)
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[140
+
+] (./Manual.ind
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[141
+
+
+
+
+
+]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[142]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[143]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[144]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[145]) (./Manual.gls [146
+
+
+
+
+]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[147]
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+
+[148]) [149
+
+]
+\openout2 = `Colophon.aux'.
+
+ (./Colophon.tex) [150
+
+] Excluding 'comment' comment.
+
+Class memoir Warning: The material used in the headers is too large
+(14.49998pt) for the given head height (12.0pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 457.
+
+\tf@toc=\write10
+\openout10 = `Manual.toc'.
+
+\tf@lof=\write11
+\openout11 = `Manual.lof'.
+
+(./Manual.aux (./Title.aux) (./Copyright.aux) (./Warnings.aux) (./Software.aux)
+(./Slicer.aux) (./Maintenance.aux) (./Advanced.aux) (./Source.aux)
+(./Support.aux) (./Contact.aux) (./Colophon.aux))
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 23265 strings out of 495658
+ 432317 string characters out of 6187951
+ 576629 words of memory out of 5000000
+ 25848 multiletter control sequences out of 15000+600000
+ 7704 words of font info for 56 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 59i,12n,53p,10450b,675s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Manual.pdf (150 pages).
