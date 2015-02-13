@@ -15,14 +15,15 @@
 
 \subsection{Setup Cura}
 \index{Installation}
-Cura is available for download on our website at \texttt{https://www.lulzbot.com/support/downloads}. When first opening Cura, you will be prompted to go through the \texttt{First run wizard}. This will consist of selecting your desired language, and your printer.
+Cura is available for download on our website at \texttt{https://www.lulzbot.com/support/downloads}. When installing, it is recommended to uninstall any previous versions of Cura you may have been using. 
+When first opening Cura, you will be prompted to go through the \texttt{First run wizard}. This will consist of selecting your printer.
 
 \textcolor{red}{It is important to select the correct printer, as Cura uses custom profiles and machines settings based upon which printer you are running.}
 
 \begin{itemize}
 \item Download the appropriate installer for your computer operating system.
 \item Install Cura by double clicking on the installer.
-\item Once your language has been selected, select \texttt{Next}.
+%\item Once your language has been selected, select \texttt{Next}.
 \item Select \texttt{Lulzbot Mini}. 
 \item Once the proper printer is selected, select \texttt{Next}. 
 \end{itemize}
@@ -39,7 +40,7 @@ Once the installation wizard finishes you can move forward with your first print
 \label{fig:Cura}
 \end{figure} 
 % (photo highlighting profile, material, diameter, and other)
-After setting up Cura for the first time, you will be prompted with this screen (Fig. \ref{fig:Cura}, page \pageref{fig:Cura}): 
+After setting up Cura for the first time, you will be shown the main interface screen. (Fig. \ref{fig:Cura}, page \pageref{fig:Cura}): 
 
 \subsection{Selecting a Quick Print Profile}
 \index{Quick Print Profile}
@@ -63,12 +64,13 @@ Designed for the fast prints, where overall model finish is not of concern. Most
 \subsection{Material Selection}
 \index{Material Selection}
 \index{filament}
-Choose your desired filament. If you are not using Lulzbot supplied filament, update your filament diameter to your specific average filament diameter. Do this by taking 10 to 12 filament diameter measurements from different parts of the reel and averaging them. Update your filament diameter. %You may also want to adjust the temperature, as different manufacturers have different recommended temperatures. % This would be better served in the Full Settings explination.
+Choose your desired filament. The Lulzbot Mini ships with a 1 meter sample of HIPS, that should be used in your first print.
+%If you are not using Lulzbot supplied filament, update your filament diameter to your specific average filament diameter. Do this by taking 10 to 12 filament diameter measurements from different parts of the reel and averaging them. Update your filament diameter. %You may also want to adjust the temperature, as different manufacturers have different recommended temperatures. % This would be better served in the Full Settings explination.
 
 \subsection{Printing Support Material}
 \index{Support Material}
 %%%% Saved for standalone Cura Manual %%%%
-%The TAZ and TAZ Mini are able to print models that have angles and overhangs, even without support material depending on the overhang distance and angle. Turn this option on if your model could benefit from support material.
+%The TAZ and Mini are able to print models that have angles and overhangs, even without support material depending on the overhang distance and angle. Turn this option on if your model could benefit from support material.
 The Mini 3D printer is able to print models that have angles and overhangs, even without support material depending on the overhang distance and angle. Turn this option on if your model could benefit from support material.
 
 \subsection{Brim}
@@ -82,7 +84,7 @@ Select the model you would like to print. Either use the \texttt{Load Model} but
 
 \subsection{Model Orientation}
 \index{Orientation}
-Move your model to change where it is printed on the build plate. Do this by clicking and dragging your model to the desired location. The \texttt{black} outlined corner represents the lower left hand corner of the build plate on your printer. 
+Move your model to change where it is printed on the build plate. Do this by left clicking on the model and dragging it to the desired location. The \texttt{black} outlined corner represents the lower left hand corner of the build plate on your printer. You can also Right Click and hold in the build screen, to view your model from different angles. %Not sure if this last sentence should be reworked or put in a separate section.
 \begin{figure}[H]
 \centering
 \includegraphics[keepaspectratio=true,angle=0,height=0.4\textheight,width=1.0\textwidth]{Options.png}
@@ -93,7 +95,8 @@ Move your model to change where it is printed on the build plate. Do this by cli
 \subsubsection{Rotate}
 %%%% Alternate explanation %%%%
 %The \texttt{Rotate} button will give you the ability orient your model in along all three axes. Once you click the rotate button, three circles will surround your model. The red circle will allow you to rotate in the XY plane. The Yellow circle will rotate in the XZ plane. The Green circle will rotate in the YZ plane.
-The \texttt{Rotate} button will give you the ability orient your model in along all three axes. Once you click the rotate button, three circles will surround your model. The \textcolor{red}{red circle} will allow you to rotate around the \textcolor{red}{Z axis}. The \textcolor{yellow}{Yellow circle} will rotate around the \textcolor{yellow}{Y axis}. The \textcolor{green}{Green circle} will rotate around the \textcolor{green}{X axis}.
+\definecolor{yellow1}{cmyk}{0,0,1,0.30}
+The \texttt{Rotate} button will give you the ability to orient your model in along all three axes. Once you click the rotate button, three circles will surround your model. The \textcolor{red}{red circle} will allow you to rotate around the \textcolor{red}{Z axis}. The \textcolor{yellow1}{Yellow circle} will rotate around the \textcolor{yellow1}{Y axis}. The \textcolor{green}{Green circle} will rotate around the \textcolor{green}{X axis}.
 \begin{figure}[H]
 \centering
 \includegraphics[keepaspectratio=true,angle=0,height=0.4\textheight,width=1.0\textwidth]{Rotate.png}
@@ -120,7 +123,7 @@ The \texttt{Reset} button will return your model to the original orientation as 
 %\end{figure}
 
 \subsubsection{Scale}
-The \texttt{Scale} button displays the model dimensions, along with the ability to scale along the X Y or Z axes. As a default, it will be set to uniform scaling. This will cause the X Y and Z axes to be scaled by the same amount when you make a change to any of them. To disable this, select the lock in the lower section of the scaling window. 
+The \texttt{Scale} button displays the model dimensions, along with the ability to scale along the X Y or Z axes. Anything \texttt{below} the number \texttt{1.0} will reduce the objects size, while anything \texttt{above} the number \texttt{1.0} will increase the objects size. As a default, it will be set to uniform scaling. This will cause the X Y and Z axes to be scaled by the same amount when you make a change to any of them. To disable this, select the lock in the lower section of the scaling window. 
 \begin{figure}[H]
 \centering
 \includegraphics[keepaspectratio=true,angle=0,height=0.4\textheight,width=1.0\textwidth]{Scale.png}
@@ -133,10 +136,11 @@ The \texttt{Scale} button displays the model dimensions, along with the ability 
 This mode allows you to view your model in a variety of different ways. This can be helpful for spotting issues before the print even starts. 
 
 \subsection{Normal}
-This is the standard view and shows the solid outer surfaces of the model. 
+This is the standard view and shows the solid outer surfaces of the model. (Fig. \ref{fig:Normal View}, page \pageref{fig:Normal View}): 
+
 \begin{figure}[H]
 \centering
-\includegraphics[keepaspectratio=true,angle=0,height=0.4\textheight,width=1.0\textwidth]{View.png}
+\includegraphics[keepaspectratio=true,angle=0,height=0.3\textheight,width=1.0\textwidth]{View.png}
 \caption{View in Normal Mode}
 \label{fig:Normal View}
 \end{figure}
@@ -146,7 +150,7 @@ This is the standard view and shows the solid outer surfaces of the model.
 Overhang mode shows where your model may need support material. In Fig. \ref{fig:Overhang_View}, page \pageref{fig:Overhang_View} the red highlighted areas show overhangs and more severe angles and areas where support material is recommended.
 \begin{figure}[H]
 \centering
-\includegraphics[keepaspectratio=true,angle=0,height=0.4\textheight,width=1.0\textwidth]{overhang.png}
+\includegraphics[keepaspectratio=true,angle=0,height=0.3\textheight,width=1.0\textwidth]{overhang.png}
 \caption{View in Overhang}
 \label{fig:Overhang_View}
 \end{figure}
@@ -156,7 +160,7 @@ Overhang mode shows where your model may need support material. In Fig. \ref{fig
 Ghost view mode makes the model translucent to allow you to see what is behind it.
 \begin{figure}[H]
 \centering
-\includegraphics[keepaspectratio=true,angle=0,height=0.4\textheight,width=1.0\textwidth]{Ghost.png}
+\includegraphics[keepaspectratio=true,angle=0,height=0.3\textheight,width=1.0\textwidth]{Ghost.png}
 \caption{View in Ghost}
 \label{fig:Ghost View}
 \end{figure}
@@ -166,7 +170,7 @@ Ghost view mode makes the model translucent to allow you to see what is behind i
 Xray is very similiar to Ghost mode. It will alow you to see into objects, ensuring that inner details are correct.
 \begin{figure}[H]
 \centering
-\includegraphics[keepaspectratio=true,angle=0,height=0.4\textheight,width=1.0\textwidth]{Xray2.png}
+\includegraphics[keepaspectratio=true,angle=0,height=0.3\textheight,width=1.0\textwidth]{Xray2.png}
 \caption{View in Xray}
 \label{fig:Xray View}
 \end{figure}
@@ -176,15 +180,15 @@ Xray is very similiar to Ghost mode. It will alow you to see into objects, ensur
 To view the toolpath of your print head and to ensure no skipped layers or gaps use this option. Use the slide bar on the right hand side of the window to move up and down through the toolpath layers.
 \begin{figure}[H]
 \centering
-\includegraphics[keepaspectratio=true,angle=0,height=0.4\textheight,width=1.0\textwidth]{layers.png}
+\includegraphics[keepaspectratio=true,angle=0,height=0.3\textheight,width=1.0\textwidth]{layers.png}
 \caption{View in Layers}
 \label{fig:Layers View}
 \end{figure}
 
 \begin{figure}[H]
 \centering
-\includegraphics[keepaspectratio=true,angle=0,height=0.4\textheight,width=1.0\textwidth]{layers2.png}
-\caption{View in Layers}
+\includegraphics[keepaspectratio=true,angle=0,height=0.3\textheight,width=1.0\textwidth]{layers2.png}
+\caption{Viewing Specific Layers}
 \label{fig:Mid Layers View}
 \end{figure}
 
@@ -236,23 +240,23 @@ Set your temperatures for the hot end and the bed. You will see two boxes, one l
 
 \end{comment} 
 
-\subsection{Print control}
-
-Connect your 3D printer to a computer using a USB cable, power it on and select the \texttt{Print/Control} button. This will bring up your Pronterface user interface. You will not be able to send any commands until the window title changes to \texttt{Operational}. As soon as it is operational, select \texttt{Print}. This will start the printing process: (set the appropriate temperatures, go through the auto-leveling procedure, and start printing your model).
+\subsection{Control}
+\index{Control}
+Connect your 3D printer to a computer using a USB cable, power it on and select the \texttt{Control} button. This will bring up your Pronterface user interface. You will not be able to send any commands until the window title changes to \texttt{Operational}. As soon as it is operational, select \texttt{Print}. This will start the printing process: (set the appropriate temperatures, go through the auto-leveling procedure, and start printing your model).
 %\pageref{fig:Print Control}).
 \begin{figure}[H]
 \centering
-\includegraphics[keepaspectratio=true,angle=0,height=0.4\textheight,width=1.0\textwidth]{print_control.png}
-\caption{Print Control Screen}
-\label{fig:Print Control}
+\includegraphics[keepaspectratio=true,angle=0,height=0.4\textheight,width=1.0\textwidth]{Pronterface117.png}
+\caption{Control Screen}
+\label{fig:Control}
 \end{figure}
 
 
 \section{Removing Your First Print}
 \index{Removing a Print}
-After your first print has finished, remove it from your bed. Your parts will be easier to remove if you allow your heated bed to cool down completely. This will allow the plastic to contract, making it easier to remove.
+After your first print has finished, you need to wait for the part to cool down.  Your parts will be easier to remove if you allow your heated bed to cool down to optimal temperature. This will allow the plastic to contract, making it easier to remove. \texttt{Your print bed will move forward once it is ready to be removed.}
 
-Once your heated bed has cooled, use the blue clam knife that was included with your printer to remove the item. Carefully use the clam knife to get between your print and heated bed. Once underneath the part rotate the blade- lifting with the sharp edge to gently pop the part off your plate.
+Once your heated bed has cooled, use the blue handled knife that was included with your printer to remove the item. Carefully insert the blade of the knife between your print and heated bed. Once underneath the part rotate the blade- lifting with the sharp edge into the part, to gently pop the piece off your plate.
 %\begin{figure}[hbt]
 %\centering
 %\includegraphics[keepaspectratio=true,angle=0,height=0.4\textheight,width=1.0\textwidth]{remove_part.png} %%%% Photo needed %%%%
@@ -262,6 +266,7 @@ Once your heated bed has cooled, use the blue clam knife that was included with 
 
 \section{Full Settings}
 \index{Full Settings}
+\textcolor{red}{Full settings should not be used until enough experience with 3D printing has been gained to feel comfortable with all aspects of the printer and its operation. The simple settings will provide good results for most models.}
 The first time Cura is launched it will default to the \texttt{Quick Print} interface. In order to have more control of your slicing and Gcode generation, switch to \texttt{Full Settings}. Select \texttt{Expert} > \texttt{Switch to full settings}. The following tabs will now be available: Basic, Advanced, Plugins, and Start/End-Gcode. You will also have access to the Expert Settings. 
 \begin{figure}[H]
 \centering
@@ -289,7 +294,7 @@ The thickness of each printed layer is known as the \texttt{Layer Height}. The s
 % (Layer height comparision photos)
 \begin{figure}[H]
 \centering
-\includegraphics[keepaspectratio=true,angle=0,height=0.4\textheight,width=1.0\textwidth]{Layerheight.png}
+\includegraphics[keepaspectratio=true,angle=0,height=0.4\textheight,width=1.0\textwidth]{Layer_Height.jpg}
 \caption{Differences in Layer Height}
 \label{fig:Differences in Layer Height}
 \end{figure}
@@ -301,13 +306,13 @@ This defines the number of vertical walls that comprise the outside of your mode
 
 \subsubsection{Enable Retraction}
 \index{Retraction}
-Retraction allows your printer to pull filament out of the hot end upon travel moves to move between printing points cleanly. We recommend keeping this on for all filament types, and adjusting the retraction length and speed for the specific filament.
+Retraction tells your printer to pull filament out of the hot end upon travel moves. Travel moves are when your print head moves from one area of the print, to another without laying down filament. We recommend keeping this on for all filament types, and adjusting the retraction length and speed for the specific filament.
 %(Details given in advanced tab section. ((Reference?))
 
 \subsubsection{Bottom/Top Thickness (mm)}
 \index{Bottom Thickness}
 \index{Top Thickness}
-Also known as \texttt{Surface Layers}- this will determine the number of of solid top and bottom layers. A larger number here will create a thicker top and bottom which can be helpful for strength and quality purposes. We recommend keeping this number as an even multiple of your layer height.
+Also known as \texttt{Surface Layers}- this will determine how thick the top and bottom layers are. A larger number here will create a thicker top and bottom which can be helpful for strength, bridging, and quality purposes. We recommend keeping this number as a multiple of your layer height.
 
 \subsubsection{Fill Density}
 \index{Fill Density}
@@ -315,7 +320,7 @@ This number is expressed as a percentage. 0\% will give a completely hollow prin
 
 \subsubsection{Print Speed (mm/s)}
 \index{Print Speed}
-Your overall printing speed can be adjusted here. If no other speeds are determined in the later sections your printer will automatically default to this speed. 
+Your overall printing speed can be adjusted here. If no other speeds are determined in the later sections your printer will automatically default to this speed. This speed will be different, depending on what type of filament you are using.
 
 \subsubsection{Printing Temperature}
 \index{Printing Temperature}
@@ -328,16 +333,16 @@ When using different filament materials you'll need to update the desired hot en
 Some models will require support material in order to print properly. This will usually occur when an object has an angle in relation to the build plate between 0 to 45 degrees. It is highly recommended to orient your object so that it minimizes or eliminates the need for support.
 
 \subsubsection{Touching Buildplate}
-This causes the support material to build up between the contact points of heated bed and the object. The orange example is Touching Buildplate.
+This causes the support material to build up between the heated bed and the object. The red example is Touching Buildplate.
 % (Photo of Circle inside a square, that is printed vertically. Have samples on photo table. Reference photo below?)
 
 \subsubsection{Everywhere}
-This prints support material between the bed and object and also between the object and itself. The green example is Support Everywhere.
+This prints support material between the heated bed and object as well as between the object and itself. The green example is Support Everywhere.
 % (Photo of Circle inside a square, that is printed vertically, sample on photo table. Reference Photo Below?)
 % (Support Comparison Photo)
 \begin{figure}[H]
 \centering
-\includegraphics[keepaspectratio=true,angle=0,height=0.4\textheight,width=1.0\textwidth]{Support.JPG}
+\includegraphics[keepaspectratio=true,angle=0,height=0.4\textheight,width=1.0\textwidth]{Support_Revised.jpg}
 \caption{Support Types}
 \label{fig:Different Types of Support}
 \end{figure}
@@ -375,20 +380,19 @@ This defines your nozzle size. The slicing engine uses this value combined with 
 
 \subsection{Retraction Speed (mm/s)}
 \index{Retraction Speed}
-Retraction Speed determines the speed at which your filament is reversed out of the hot end for travel moves and when changing direction when printing. We recommend keeping this set to 25mm/s.
+Retraction Speed determines the speed at which your filament is reversed out of the hot end for travel moves and when changing direction during printing. We recommend keeping this set to 25mm/s.
 
 \subsection{Retraction Distance}
 \index{Retraction Distance}
-Retraction Distance determines how much filament is pulled out of your hot end on travel moves and when changing direction. You will want to adjust this depending on temperature settings and filament type. Higher thermal retaining filaments behave better with a longer retraction distance. We have found anywhere from 1mm to 3mm is a good starting range.
+Retraction Distance determines how much filament is pulled out of your hot end on travel moves and when changing direction. You will want to adjust this depending on temperature settings and filament type. Higher thermal retaining filaments such as PLA behave better with a longer retraction distance. We have found anywhere from 1mm to 3mm is a good starting range.
 % changed from "1 to 6mm" to remain conservative.
 
 \subsection{Initial Layer Thickness}
 \index{Initial Layer}
-This will control how thick your first printed layer height is printed onto the heated bed. Having a larger initial layer height will help with part removal. A smaller initial layer height will help with part adhesion.
-
+This will control how thick your first printed layer height is printed onto the heated bed. Having a larger initial layer height will help prevent your part from popping off the plate. \textcolor{red}{Your LulzBot Mini auto leveling system could be affected if you change this from the standard profiles. Adjust at your own risk.}
 \subsection{Initial Layer Line Width}
 \index{Initial Layer Width}
-This will control how wide your first extruded filament path is for the initial layer. A wider line width will help with bed adhesion. We have found 125\% to be a good starting place. For models with moving printed in place parts, a smaller initial layer line width is recommended.
+This will control how wide your first extruded filament path is for the initial layer. A wider line width will help with bed adhesion. We have found 125\% to be a good starting place. For models with moving printed in place parts, a smaller initial layer line width is recommended. \textcolor{red}{Your LulzBot Mini auto leveling system could be affected if you change this from the standard profiles. Adjust at your own risk.}
 
 \subsection{Cut Off Object Bottom (mm)}
 \index{Cut Off Object}
@@ -414,7 +418,7 @@ This will control your initial layer speed. In general, a slower initial layer s
 
 \subsection{Infill Speed}
 \index{Infill Speed}
-Print head speed while laying down the interior portion of your model. Faster speeds are usually tolerable here, as none of the infill will be visible from the outside of your object. If you go too fast compared to your inner and outer shells, you can have adhesion issues or retraction artifacts.
+This is how fast your print head speed will be while laying down the interior portion of your model. Faster speeds are usually tolerable here, as none of the infill will be visible from the outside of your object. If you go too fast compared to your inner and outer shells, you can have adhesion issues or globs of filament left behind from the printhead.
 
 \subsection{Outer Shell Speed}
 \index{Outer Shell Speed}
@@ -426,7 +430,7 @@ This affects vertical walls that are in between the outer shell and infill. This
 
 \subsection{Minimal Layer Time}
 \index{Minimal Layer Time}
-This will determine a minimum amount of time your printer will spend laying down each layer. If your layer print time falls below this your printer will automatically slow down to reach this time before moving onto the next layer.
+This will determine a minimum amount of time your printer will spend laying down each layer. If your layer print time falls below this your printer will automatically slow down to reach this time before moving onto the next layer. Tweaking this can help get cleaner, crisper prints.
 
 \subsection{Enable Cooling Fan}
 \index{Enabling Cooling Fan}
@@ -444,7 +448,7 @@ Plugins are custom settings which will alter your print at specific points. The 
 
 \subsection{Tweak at Z}
 \index{Tweak at Z}
-Make basic changes at specified Z heights. You can determine the Z height or layer count at which you want to make a change. Then choose how you would like to change your settings. You can alter temperatures, fan speeds, and print speeds.
+Make basic changes at specified Z heights. You can determine the Z height or layer count at which you want to make a change. Then choose how you would like to change your settings. You can alter temperatures, fan speeds, and print speeds. Fine tuning these for specific STL files, can produce cleaner prints.
 
 \subsection{Pause at Z Height}
 \index{Pause at Z Height}
@@ -455,25 +459,25 @@ Pause your print at a specified height. You can also specify where to move the p
 Custom Gcode allows for complex automatic printer movements and operations. By adding custom Gcode into the start or end of your file, you can alter how it prints. A comprehensive list of Gcode commands can be found here: \texttt{http://reprap.org/wiki/G-code} We recommend new users to leave this as provided in the profiles at \texttt{https://www.lulzbot.com/support/downloads}
 
 \subsection{Mini Specific Considerations}
-Please be cautious when changing any of these start and end gcode settings. This is where your Auto Bed Leveling commands are stored. If improperly altered, your printer will no longer automatically compensate for the heated bed position and can even potentially damage components on the printer. If you are uncertain of the change you are trying to make, please contact us at \texttt{Support@LulzBot.com} before hand.
+Please be cautious when changing any of these start and end gcode settings. \textcolor{red}{This is where your Auto Bed Leveling commands are stored. If improperly altered, your printer will no longer automatically compensate for the heated bed position and can even potentially damage components on the printer.} If you are uncertain of the change you are trying to make, please contact us at \texttt{Support@LulzBot.com} before hand.
 
 \section{Expert Settings}
 \index{Expert Settings}
 Expert settings will give you more specific options for your retraction, skirt, active cooling, infill, support, brim, raft, and special settings. To gain access to this section you go to \texttt{Expert} > \texttt{Open Full Settings} or on your keyboard press \texttt{Control + E}.
 \begin{figure}[H]
 \centering
-\includegraphics[keepaspectratio=true,angle=0,height=0.4\textheight,width=1.0\textwidth]{Expert.png}
+\includegraphics[keepaspectratio=true,angle=0,height=0.4\textheight,width=1.0\textwidth]{Expert_Settings.png}
 \caption{View Expert Settings}
 \label{fig:Expert Settings}
 \end{figure}
 
 \section{Retraction}
 \index{Retraction}
-Retraction pulls filament out of your nozzle when it is not extruding to prevent your print head from dripping on your object.This section is where you will control how your extruder retracts its filament.
+Retraction pulls filament out of your nozzle when it is not extruding to prevent your print head from dripping on your object. This section is where you will control how your extruder retracts its filament.
 
 \subsection{Minimum Travel}
 \index{Minimum Travel}
-This sets the minimum travel distance of your printhead in order to retract. If your print head is not moving this far during dravel moves, it will not retract.
+This sets the minimum travel distance of your printhead in order to retract. If your print head is not moving this far during travel moves, it will not retract.
 
 \subsection{Combing}
 \index{Combing}
@@ -489,7 +493,7 @@ This will raise your print head Xmm while retracting. This setting helps prevent
 
 \section{Skirt}
 \index{Skirt}
-Skirt creates a line around the outside of your object. Most commonly used to prime the extruder, in order prevent missed filament at the beginning of a print. Leave this setting on.
+Skirt creates a line around the outside of your object. Most commonly used to prime the extruder, in order to prevent missed filament at the beginning of a print. Leave this setting on.
 
 \subsection{Line Count}
 \index{Line Count}
@@ -509,16 +513,16 @@ This section will define how your extruder cooling fan will operate during the p
 
 \subsection{Fan on at Full Height}
 \index{Fan Settings}
-This is your Z height where your fan will be turned to its maximum percentage. Especially helpful with high temperature retaining filaments such as PLA. This will be scaled between 0\%, and your maximum fan speed based upon layer height with it being disabled for the first layer.
+This is your Z height where your fan will be turned on to its minimum percentage setting. Especially helpful with high temperature retaining filaments such as PLA. This will be scaled between 0\%, and your minimum fan speed based upon layer height; with it being disabled for the first layer.
 
 \subsection{Fan Speed Min}
 \index{Fan Settings}
 
-This will be the minimum fan speed when enabled. If fan on at full height is enabled, this will be the minimum speed and it will scale to the maximum speed at that height.
+This will be the speed your fan runs when enabled at full height. Once the Z height is reached for Fan on at Full Height, this will be the speed your fan runs at.
 
 \subsection{Fan Speed Max}
 \index{Fan Settings}
-This is the fastest speed at which your will ever run. When Fan on at Full Height is enabled, this is the speed at which it will be set.
+This is the fastest speed at which your fan will ever run. When your print speed is slowed down due to minimal layer time, your fan will run between minimum and maximum speed. The maximum fan speed is reached when your printer must be slowed by 50\% or greater.
 
 \section{Support}
 \index{Support Material}
@@ -593,7 +597,7 @@ This will determine how wide the top layers of the platform will be. In general,
 
 \subsection{Airgap}
 \index{Airgap}
-This will define the distance between your raft and your print. A larger gap will make your part easier to remove, but will make the bottom of your print looks worse.
+This will define the distance between your raft and your print. A larger gap will make your part easier to remove, but will make the bottom of your print look worse.
 
 \subsection{Surface Layers}
 \index{Surface Layers}
