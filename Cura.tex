@@ -9,9 +9,22 @@
 % International Public License (CC BY-SA 4.0) by Aleph Objects, Inc.
 %
 
+
+
 \section{Cura}
 \index{Cura}
 \label{Cura}
+
+\subsection{Overview}
+\begin{description}
+\item{Printer Hosts} \hfill \\
+Printer Host software is used to control your 3D printer. The printer host software not only allows you to manually move the printer along all the axes, but set temperatures manually, send commands and receive feedback/error messages from the onboard electronics. We recommend that new users start with Cura as it includes a slicing engine as well.
+
+\item{Slicers} \hfill \\
+These programs take the 3-Dimensional model (typically STL/OBJ/etc) and determine the 3D printer toolpath based on the options selected. The slicing engine uses the nozzle diameter, printing and movement speeds, layer height and other variables to determine the coordinates where it needs to move and the rates at which it will do so. This information is exported out of the program as a gcode file. The gcode file is a plain-text file with a series of text-based codes and a list of the complete X,Y and Z axis coordinates used for printing the 3D model. We recommend that new users start with Cura as it includes the printer host as well.
+
+\end{description}
+
 
 \subsection{Setup Cura}
 \index{Installation}
@@ -19,6 +32,10 @@ Cura is available for download on our website at \texttt{https://www.lulzbot.com
 When first opening Cura, you will be prompted to go through the \texttt{First run wizard}. This will consist of selecting your printer.
 
 \textcolor{red}{It is important to select the correct printer, as Cura uses custom profiles and machines settings based upon which printer you are running.}
+
+\index{driver}
+\section{Installing Drivers}
+Linux and Mac OSX users will not need to install a driver to communicate with the Mini 3D printer. Windows users will need to install the drivers. Using Cura as your printer host and slicing software is recommended, as the drivers will automatically be installed. The drivers can also be downloaded from \texttt{LulzBot.com/support/downloads}. A visual guide showing the driver installation process can be found in our download section as well.
 
 \begin{itemize}
 \item Download the appropriate installer for your computer operating system.
